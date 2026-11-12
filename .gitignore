@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# الداتا كبيرة ومتتحطش على GitHub (راجع README)
+data/*
+!data/.gitkeep
